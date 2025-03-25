@@ -12,5 +12,4 @@ Berikut adalah daftar dokumentasi untuk konfigurasi dan deployment:
 - **SSL Setup**: Mengatur dan memperbarui sertifikat SSL secara otomatis atau manual.
 - **Deployment ke Production**: Langkah-langkah untuk membangun, mengunggah, dan menjalankan aplikasi dengan Docker.
 
-Untuk detail lebih lanjut, silakan klik tautan di atas. Selamat bekerja! 🔥
 
