@@ -1,9 +1,5 @@
 # 🚀 Panduan Deploy ke Production
 
-## 🎯 Pendahuluan
-Dokumentasi ini menjelaskan langkah-langkah untuk mendorong (push) aplikasi ke **production** menggunakan **Docker** dan **Docker Compose**.
-
----
 
 ## 🔨 Langkah-Langkah Deploy
 
