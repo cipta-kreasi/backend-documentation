@@ -1,6 +1,5 @@
 # 📚 Dokumentasi
 
-Berikut adalah daftar dokumentasi untuk konfigurasi dan deployment:
 
 1. **CORS Configuration** - [Buka Dokumentasi](./cors.md)
 2. **SSL Setup** - [Buka Dokumentasi](./ssl.md)
