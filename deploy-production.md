@@ -8,6 +8,8 @@ jalankan script berikut di root project
 ./scripts/push.sh
 ```
 
+---
+
 ## 🔨 Langkah-Langkah Deploy manual
 
 ### 1️⃣ **Membangun Docker Image**
