@@ -1,7 +1,14 @@
 # 🚀 Panduan Deploy ke Production
 
+## Deploy otomatis
 
-## 🔨 Langkah-Langkah Deploy
+jalankan script berikut di root project
+
+```sh
+./scripts/push.sh
+```
+
+## 🔨 Langkah-Langkah Deploy manual
 
 ### 1️⃣ **Membangun Docker Image**
 Jalankan perintah berikut untuk membuat image Docker:
